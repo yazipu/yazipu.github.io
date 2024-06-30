@@ -5,7 +5,8 @@ Orange Pi Zero3 中文下载:
 http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
 
 OpenWRT firmware download:
-https://discord.com/invite/TAWtfG2EPM
+https://drive.google.com/file/d/1gchXIV_PwduCa-xWBxJZude_Msba3i_E
+https://disk.yandex.ru/d/vYI64bq_J77CBA
 
 Introduce Video:
 https://youtu.be/CK220iBGlAM
