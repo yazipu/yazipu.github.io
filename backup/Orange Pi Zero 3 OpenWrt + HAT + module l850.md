@@ -1,17 +1,20 @@
 香橙派是一款开源的单板卡片电脑，新一代的arm64开发板，它可以运行Android TV 12、Ubuntu和Debian 等操作系统。 香橙派开发板（Orange Pi Zero 3）使用全志H618系统级芯片，同时拥有1GB 或1.5GB 或2GB 或4GB LPDDR4 内存。 
 
-Orange Pi Zero3 English Download:
-http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
+便宜的开发版，将操作系统烧录在TF卡中。
 
 Orange Pi Zero3 中文下载：
 http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
+
+Orange Pi Zero3 English Download:
+http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
 
 OpenWRT Firmware Download 固件下载：
 https://drive.google.com/file/d/1gchXIV_PwduCa-xWBxJZude_Msba3i_E
 https://disk.yandex.ru/d/vYI64bq_J77CBA
 
-opiz3 23.05.2.img.img Windows烧录方法：
-先打开【SD Card Formatter】 软件，点击format，然后关闭
+Windows TF卡操作系统烧录方法：
+先下载固件镜像： opiz3 23.05.2.img.img
+打开【SD Card Formatter】 软件，点击format，然后关闭
 完成之后打开 【Win32DiskImager】
 选择映像文件：opiz3 23.05.2.img.img
 点击写入，等待写入，写入成功
