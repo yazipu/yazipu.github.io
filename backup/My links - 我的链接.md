@@ -16,4 +16,4 @@ Instagram: https://www.instagram.com/sevenaionline
 
 5sing: https://5sing.kugou.com/165801/default.html
 
-网易云音乐: https://music.163.com/#/artist?id=32438350
+NetEase CloudMusic: https://music.163.com/#/artist?id=32438350
