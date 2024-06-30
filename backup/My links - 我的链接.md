@@ -1,3 +1,5 @@
+三花浴山露,碧波聚海湾,白鹭清风戏暖阳,峡屿连岳笑峰颠!
+
 GitHub Blog: https://github.com/yazipu/yazipu.github.io
 
 CnBlog: https://www.cnblogs.com/yipu
