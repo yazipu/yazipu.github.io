@@ -1,3 +1,13 @@
+Orange Pi Zero3 English Download:
+http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
+
+Orange Pi Zero3 中文下载:
+http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
+
+OpenWRT firmware download:
+https://discord.com/invite/TAWtfG2EPM
+
+Introduce Video:
 https://youtu.be/CK220iBGlAM
 
 wifi name: OPIZ 3
