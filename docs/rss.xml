@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Seven AI Online Blog</title><link>https://yazipu.github.io</link><description>王懿璞的个人博客 - Seven AI Online Blog - 三花浴山露, 碧波聚海湾, 白鹭清风戏暖阳, 峡屿连岳笑峰颠!</description><copyright>Seven AI Online Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://yazipu.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 15:05:45 +0000</lastBuildDate><managingEditor>Seven AI Online Blog</managingEditor><ttl>60</ttl><webMaster>Seven AI Online Blog</webMaster><item><title>Orange Pi Zero 3 OpenWrt + HAT + module l850</title><link>https://yazipu.github.io/post/Orange%20Pi%20Zero%203%20OpenWrt%20%2B%20HAT%20%2B%20module%20l850.html</link><description>Orange Pi Zero3 English Download:&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Seven AI Online Blog</title><link>https://yazipu.github.io</link><description>王懿璞的个人博客 - Seven AI Online Blog - 三花浴山露, 碧波聚海湾, 白鹭清风戏暖阳, 峡屿连岳笑峰颠!</description><copyright>Seven AI Online Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://yazipu.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 15:06:21 +0000</lastBuildDate><managingEditor>Seven AI Online Blog</managingEditor><ttl>60</ttl><webMaster>Seven AI Online Blog</webMaster><item><title>Orange Pi Zero 3 OpenWrt + HAT + module l850</title><link>https://yazipu.github.io/post/Orange%20Pi%20Zero%203%20OpenWrt%20%2B%20HAT%20%2B%20module%20l850.html</link><description>Orange Pi Zero3 English Download:&#13;
 http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html&#13;
 &#13;
 Orange Pi Zero3 中文下载:&#13;
@@ -12,8 +12,8 @@ https://disk.yandex.ru/d/vYI64bq_J77CBA&#13;
 opiz3 23.05.2.img.img 烧录方法：&#13;
 先打开【SD Card Formatter 】 软件，点击format，然后关闭&#13;
 完成之后打开 【Win32DiskImager】&#13;
-选择映像文件后点击写入&#13;
-等待写入，写入成功&#13;
+选择映像文件：opiz3 23.05.2.img.img&#13;
+点击写入，等待写入，写入成功&#13;
 &#13;
 Introduce Video:&#13;
 https://youtu.be/CK220iBGlAM&#13;
