@@ -8,6 +8,12 @@ OpenWRT firmware download:
 https://drive.google.com/file/d/1gchXIV_PwduCa-xWBxJZude_Msba3i_E
 https://disk.yandex.ru/d/vYI64bq_J77CBA
 
+opiz3 23.05.2.img.img 烧录方法：
+先打开【SD Card Formatter 】 软件，点击format，然后关闭
+完成之后打开 【Win32DiskImager】
+选择映像文件后点击写入
+等待写入，写入成功
+
 Introduce Video:
 https://youtu.be/CK220iBGlAM
 
