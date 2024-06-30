@@ -18,6 +18,9 @@ Windows TF卡操作系统烧录方法：
 完成之后打开 【Win32DiskImager】
 选择映像文件：opiz3 23.05.2.img.img
 点击写入，等待写入，写入成功
+将写好的TF卡插入Orange PI Zero 3开机启动
+连接WIFI：OPIZ 3 密码：kuotamahal
+然后访问管理界面：http://192.168.1.1
 
 Introduce Video:
 https://youtu.be/CK220iBGlAM
