@@ -4,7 +4,7 @@
 
 Home Page: https://yazipu.github.io
 
-GitHub Blog: https://github.com/yazipu/yazipu.github.io
+Source Code: https://github.com/yazipu/yazipu.github.io
 
 CnBlog: https://www.cnblogs.com/yipu
 
