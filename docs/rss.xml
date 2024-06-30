@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Seven AI Online Blog</title><link>https://yazipu.github.io</link><description>王懿璞的个人博客 - Seven AI Online Blog</description><copyright>Seven AI Online Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://yazipu.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 02:33:57 +0000</lastBuildDate><managingEditor>Seven AI Online Blog</managingEditor><ttl>60</ttl><webMaster>Seven AI Online Blog</webMaster><item><title>My links - 我的链接</title><link>https://yazipu.github.io/post/My%20links%20-%20-wo-de-lian-jie.html</link><description>GitHub Blog: https://github.com/yazipu/yazipu.github.io&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Seven AI Online Blog</title><link>https://yazipu.github.io</link><description>王懿璞的个人博客 - Seven AI Online Blog</description><copyright>Seven AI Online Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://yazipu.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 02:54:04 +0000</lastBuildDate><managingEditor>Seven AI Online Blog</managingEditor><ttl>60</ttl><webMaster>Seven AI Online Blog</webMaster><item><title>My links - 我的链接</title><link>https://yazipu.github.io/post/My%20links%20-%20-wo-de-lian-jie.html</link><description>GitHub Blog: https://github.com/yazipu/yazipu.github.io&#13;
+&#13;
 CnBlog: https://www.cnblogs.com/yipu&#13;
+&#13;
 YouTube: https://www.youtube.com/@yazipu&#13;
+&#13;
 FaceBook: https://www.facebook.com/hannahvideo&#13;
+&#13;
 Instagram: https://www.instagram.com/sevenaionline。</description><guid isPermaLink="true">https://yazipu.github.io/post/My%20links%20-%20-wo-de-lian-jie.html</guid><pubDate>Sun, 30 Jun 2024 02:15:25 +0000</pubDate></item><item><title>2024年6月30日 9点43分</title><link>https://yazipu.github.io/post/2024-nian-6-yue-30-ri-%209-dian-43-fen.html</link><description>使用 Gmeek 建立个人博客&#13;
 &#13;
 Gmeek 一个博客框架，超轻量级个人博客模板。</description><guid isPermaLink="true">https://yazipu.github.io/post/2024-nian-6-yue-30-ri-%209-dian-43-fen.html</guid><pubDate>Sun, 30 Jun 2024 01:43:09 +0000</pubDate></item></channel></rss>
