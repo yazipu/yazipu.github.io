@@ -21,6 +21,7 @@ Windows TF卡 OpenWRT 烧录方法：
 将写好的TF卡插入Orange PI Zero 3开机启动
 连接WIFI：OPIZ 3 密码：kuotamahal
 然后访问管理界面：http://192.168.1.1
+管理账号：root 密码: kendal
 
 Introduce Video:
 https://youtu.be/CK220iBGlAM
