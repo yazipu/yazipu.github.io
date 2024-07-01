@@ -2,6 +2,7 @@
 
 便宜的开发版，将操作系统烧录在TF卡中。
 可刷入OpenWrt系统，作为智能路由器使用。
+配合 GL-MT3000 及 USB 4g/5g 网实现无线宽带。
 
 Orange Pi Zero3 中文下载：
 http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
