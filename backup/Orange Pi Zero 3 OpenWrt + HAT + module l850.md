@@ -8,11 +8,11 @@ http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-sup
 Orange Pi Zero3 English Download:
 http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html
 
-OpenWRT Firmware Download 固件下载：
+OpenWrt Firmware Download 固件下载：
 https://drive.google.com/file/d/1gchXIV_PwduCa-xWBxJZude_Msba3i_E
 https://disk.yandex.ru/d/vYI64bq_J77CBA
 
-Windows TF卡 OpenWRT 烧录方法：
+Windows TF卡 OpenWrt 烧录方法：
 先下载固件镜像： opiz3 23.05.2.img.img
 打开【SD Card Formatter】 软件，点击format，然后关闭
 完成之后打开 【Win32DiskImager】
