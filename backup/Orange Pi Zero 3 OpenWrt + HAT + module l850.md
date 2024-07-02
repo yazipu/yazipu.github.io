@@ -1,3 +1,6 @@
+
+![Uploading IMG_4738.jpeg…]()
+
 香橙派是一款开源的单板卡片电脑，新一代的arm64开发板，它可以运行Android TV 12、Ubuntu和Debian 等操作系统。 香橙派开发板（Orange Pi Zero 3）使用全志H618系统级芯片，同时拥有1GB 或1.5GB 或2GB 或4GB LPDDR4 内存。 
 
 便宜的开发版，将操作系统烧录在TF卡中。
