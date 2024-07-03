@@ -1,5 +1,7 @@
 產品描述
 
+![image](https://github.com/yazipu/yazipu.github.io/assets/6688947/281400d8-6c78-4609-9fe6-97ed90cc134c)
+
 https://store.google.com/tw/product/chromecast_google_tv
 
 獨特之處
