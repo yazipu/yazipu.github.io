@@ -1,9 +1,7 @@
 產品描述
 
 https://store.google.com/tw/product/chromecast_google_tv
-
 <img src="https://github.com/yazipu/yazipu.github.io/assets/6688947/281400d8-6c78-4609-9fe6-97ed90cc134c" width="75%">
-
 獨特之處
 ● 內置 Google 官方 Android TV 系統
 ● 支持 4K (4K 版本)/HDR/Dolby Vision 串流解碼撥放
