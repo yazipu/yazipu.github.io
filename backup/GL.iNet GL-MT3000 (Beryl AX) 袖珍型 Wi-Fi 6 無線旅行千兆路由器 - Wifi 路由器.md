@@ -1,3 +1,5 @@
+![image](https://github.com/yazipu/yazipu.github.io/assets/6688947/9eb8da44-5e11-42a5-ab2c-06c1aa74fbe6)
+
 GL-MT3000 是一款使用Wi-Fi 6 协议的AX3000 便携式路由器。
 https://www.gl-inet.cn/products/gl-mt3000/
 
