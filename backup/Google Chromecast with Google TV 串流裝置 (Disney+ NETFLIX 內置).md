@@ -1,8 +1,8 @@
 產品描述
 
-![image](https://github.com/yazipu/yazipu.github.io/assets/6688947/281400d8-6c78-4609-9fe6-97ed90cc134c)
-
 https://store.google.com/tw/product/chromecast_google_tv
+
+<img src="https://github.com/yazipu/yazipu.github.io/assets/6688947/281400d8-6c78-4609-9fe6-97ed90cc134c" width="50%">
 
 獨特之處
 ● 內置 Google 官方 Android TV 系統
