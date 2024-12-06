@@ -17,3 +17,5 @@ Instagram: https://www.instagram.com/sevenaionline
 5sing: https://5sing.kugou.com/165801/default.html
 
 NetEase CloudMusic: https://music.163.com/#/artist?id=32438350
+
+AIOnline 爱神交易策略: https://github.com/yazipu/AIOnline
